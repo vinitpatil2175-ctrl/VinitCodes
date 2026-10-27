@@ -1,3 +1,4 @@
 # VinitCodes
 Codes by Vinit.
-Author - Vinit Patil
+
+Author - Vinit Nitin Patild
